@@ -113,7 +113,7 @@
 </p>
 
 
-<img width="350" align="right" alt="coder.gif" src="rock-metal.gif" />
+<img width="300" align="right" alt="coder.gif" src="rock-metal.gif" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanyilmaz2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
