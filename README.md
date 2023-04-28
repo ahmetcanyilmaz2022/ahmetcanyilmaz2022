@@ -19,13 +19,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/muslumhanozturk" title="Linkedin" target="_blank">
+      <a href="https://www.linkedin.com/in/ahmet-can-y-209a88211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVmVV%2Bo12TPaamkZdskIz5A%3D%3D" title="Linkedin" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AhmetCanYılmaz" height="30" width="40" />
       </a>
     </td>
     <td>
-      <a href="https://instagram.com/m.hanozturk" title="Instagram" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
+      <a href="" title="Instagram" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/ahmetcanyilmaz2022" height="30" width="40" />
       </a>
     </td>
   </tr>
